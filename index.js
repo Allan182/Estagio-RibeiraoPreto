@@ -164,11 +164,9 @@ Foi deixado a resposta por extensa e resolvida utilizando a lógica pois é uma 
 
 */
 
-
-
-
-
 /*
+
+
 4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
 
 
