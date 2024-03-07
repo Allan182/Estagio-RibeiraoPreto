@@ -34,8 +34,9 @@ const calculoSoma = () => {
       k = k + 1;
       soma = soma + k;
    }
+   console.log(`A Variavel Soma terá o valor de ${soma}`);
 }
-calculoSoma(`A Variavel Soma terá o valor de R${soma}`)
+calculoSoma();
 
 //  Questão 2 - Verifica Fibonacci
 
